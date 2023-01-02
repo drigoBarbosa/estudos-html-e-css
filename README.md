@@ -1,2 +1,2 @@
 # EstudosHTML
- Estudos HTML mas inclui um pouco de CSS e JAVASCRIPT.
+ Estudos HTML e Css, Javascript não pode ficar de fora também...
