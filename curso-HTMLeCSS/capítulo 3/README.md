@@ -1,4 +1,6 @@
-# A diferença entre HTML, CSS e JAVASCRIPT.
+# Aula 1
+
+## A diferença entre HTML, CSS e JAVASCRIPT.
 
 ### **HTML**: HiperText Markup Language(Linguagem de Marcação para HiperTexto), html é uma linguagem focada em conteúdo da página que pode ser textos, vídeos, imagens, tabelas, listas, etc. 
 #### obs: Html não é uma linguagem de programação.
