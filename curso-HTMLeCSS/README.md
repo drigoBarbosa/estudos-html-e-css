@@ -1,1 +1,1 @@
-# Curso HTML e CSS pelo https://www.cursoemvideo.com/
+# Curso HTML e CSS(modulo 1) pelo https://www.cursoemvideo.com/curso/html5-css3-modulo1/
